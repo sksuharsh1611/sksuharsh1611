@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksuharsh1611&label=Profile%20views&color=0e75b6&style=flat" alt="sksuharsh1611" /> </p>
 
-- 🌱 I’m currently learning **Java, HTML, CSS**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **sk7870779155@gmail.com**
 
