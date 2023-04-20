@@ -5,7 +5,7 @@
 
 - 🌱 With my extensive experience as an **MES Apriso Developer**, I have developed an exceptional level of expertise in **Data Science**, characterized by a deep understanding and mastery of cutting-edge tools and techniques.
 
-- 📫 How to reach me **sk7870779155@gmail.com**
+- 📫 How to reach me > **sk7870779155@gmail.com**
 
 
 <h2 align="left">Languages and Tools:</h2>
