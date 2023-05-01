@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksuharsh1611&label=Profile%20views&color=0e75b6&style=flat" alt="sksuharsh1611" /> </p>
 
-- 🌱 With my extensive experienc as an **MES Apriso Developer**, I have developed an exceptional level of expertise in **Data Science**, characterized by a deep understanding and mastery of cutting-edge tools and techniques.
+- 🌱 With my extensive experience as an **MES Apriso Developer**, I have developed an exceptional level of expertise in **Data Science**, characterized by a deep understanding and mastery of cutting-edge tools and techniques.
 
 - 📫 How to reach me > **sk7870779155@gmail.com**
 
